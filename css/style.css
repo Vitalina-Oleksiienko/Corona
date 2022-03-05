@@ -771,3 +771,23 @@ body {
     border-radius: 16px;
     transform: rotate(45deg);
 }
+
+
+
+/* footer */
+.footer {
+    padding: 45px 0px;
+}
+
+.footer__container {
+    
+}
+
+.footer__items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.footer__item {}
