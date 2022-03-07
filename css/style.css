@@ -530,6 +530,9 @@ body {
 }
 
 @media (max-width: 768.98px) {
+    .stay-safe__container {
+        flex-direction: column-reverse;
+    }
     .stay-safe {
         padding: 30px 0px;
     }
