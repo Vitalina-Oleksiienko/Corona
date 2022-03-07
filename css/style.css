@@ -128,7 +128,7 @@ body {
 
     .header__button {
         flex: 0 0 170px;
-        justify-content: start;
+        justify-content: center;
     }
 
     .menu__item {
